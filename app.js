@@ -9,4 +9,4 @@ usernameElement.textContent = "Username: Demmybammy";
 emailElement.textContent = "Email: demmybite@gmail.com";
 
 websiteLink.href = "https://hng.tech";
-websiteLink.textContent = "Visit Internship Website";
+websiteLink.textContent = "Visit HNG Internship Website";
